@@ -1,2 +1,3 @@
 # S3-file-upload-using-spring-API
-Using Spring Boot API users can upload files to S3 Bucket
+Upload a file to an S3 bucket using the Springboot API and use AWS Lambda to read the SQS and inject the Meta Data into DynamoDb
+
